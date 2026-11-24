@@ -4,8 +4,18 @@ A fast, interactive .NET TUI CLI built with `Spectre.Console` to inspect and cle
 
 ## Install / Update as a Global .NET Tool
 
+**Linux / macOS (Bash):**
 ```bash
 ./install.sh
+# To uninstall:
+./uninstall.sh
+```
+
+**Windows / Cross-platform (PowerShell):**
+```powershell
+./install.ps1
+# To uninstall:
+./uninstall.ps1
 ```
 
 Or manually:
